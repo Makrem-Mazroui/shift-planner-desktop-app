@@ -46,7 +46,7 @@ Real life happens. Use the third tab to:
 
 ## 📂 Project Structure
 
-* `shift-planner.py`: The main application source code.
+* For Mac`shift-planner.app` and For Windows `shift-planner.exe`: The main application source code.
 * `members.json`: Database of team members and preferences.
 * `schedule_data.json`: Stores the current state of the generated schedule (allows for saving/loading).
 * `shift_plan.html`: The visual output file generated for users.
