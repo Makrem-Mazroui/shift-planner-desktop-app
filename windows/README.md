@@ -4,8 +4,10 @@ you can turn your script into an .exe file. This is often cleaner than using bat
 
 Open your terminal/command prompt.
 
-Install PyInstaller: pip install pyinstaller
+Install PyInstaller: 
+$ pip install pyinstaller
 
-Navigate to your folder and run this command: pyinstaller --noconsole --onefile shift-plan-gui.py
+Navigate to your folder and run this command: 
+$ pyinstaller --noconsole --onefile shift-planner.pyc
 
 This will create a dist folder containing shift-plan-gui.exe. You can send just that .exe file to anyone, and it will run your app.
