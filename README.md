@@ -1,5 +1,3 @@
-# shift-planner
-
 **For new build on MAC**
 
 ```
@@ -10,3 +8,12 @@ pip install pyinstaller
 pyinstaller --noconsole --onedir --windowed shift-planner.py
 deactivate
 ```
+
+**For new build on Windows**
+```
+cd /XXX/XXXX/python.py
+pip install pyinstaller
+python -m PyInstaller --noconsole --onefile shift-planner.py
+```
+
+-Locate the App
