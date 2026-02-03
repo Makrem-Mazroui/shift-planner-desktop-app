@@ -2,7 +2,7 @@
 
 1- Download the "shift-planner.pyc" file
 2- In the same directory create a file "Run_Windows.bat"
-3- Open "Shift-Planner.bat" with Notepad (or your code editor), paste this code, and save it as Run_Windows.bat.
+3- Open "Shift-Planner.bat" with Notepad (or your code editor), paste this code, and save it as "Shift-Planner.bat"
 ```
 Code snippet
 @echo off
