@@ -1,7 +1,0 @@
-pip install pyinstaller cryptography ttkbootstrap  
-
-python -m PyInstaller --noconsole --onefile --name "PyDuty Pro V2" main.py
-
-AF2AC5928AA5E397FAFF  
-
-QUYyQUM1OTI4QUE1RTM5N0ZBRkZ8MjAyNi0wNS0yMQ==.cQRmeiUtnM3ek3UYMH8BU+1jZDek0aVQ7JxrdaRyjNS5JiCbpixCSy0qhZoJe9Cgh53JsNzHxaq7rGToomWisNU6cO8Oq1j4CBm9mUpI4P3U9ddcMCKqT/1uMBnSjnILTmDcBlB5DrFM7oM9Jhoi/igyvLWIov/lZclpw9VMS5HY7DRJI+iFesG66BOruO5eOXnr0DNrJjBn0hz0bUucFk1Ws8HJUFswfr1Xn3OcJRK5R+EVxU97eQlWWQkJR5MITgsmY+EFVXLBf8JcaUNBUq0yUnp45jiGcl7vTbtEJVfh2beKVF1VFYWpKLPlvHWH1ppmCacVxfOTPLEnLaegnA==
